@@ -20,7 +20,6 @@ i:hover {
     background: rgba(255, 255, 255, 0.075);
     cursor: pointer;
 }
-
 /* Contenedor principal */
 main {
     width: 100%;
@@ -46,6 +45,12 @@ article {
     gap: 30px;
     position: relative;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
+    position: absolute;
+    display: none;
+}
+
+.display{
+    display: flex;
 }
 
 /* Título */
@@ -84,4 +89,8 @@ article img {
     align-items: center;
     justify-content: center;
     z-index: 10;
+}
+
+div{
+    cursor: pointer;
 }
