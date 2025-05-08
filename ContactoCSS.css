@@ -1,0 +1,110 @@
+/* Para el fondo */
+body, html {
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', sans-serif;
+    height: 100vh;
+    background-color: #1e1e1e; /* Fondo sólido oscuro */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.modal {
+    background: rgba(0, 0, 0, 0.8);
+    padding: 30px;
+    width: 500px;
+    border-radius: 5px;
+    color: white;
+    box-shadow: 0 0 10px #000;
+    position: relative;
+}
+
+/* Para lo q es el ítulo */
+.modal h2 {
+    margin-top: 0;
+    letter-spacing: 2px;
+}
+
+/*boton de cerrar*/
+.close {
+    position: absolute;
+    top: 15px;
+    right: 20px;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+form {
+    margin-top: 20px;
+}
+
+.fila {
+    display: flex;
+    gap: 10px;
+}
+
+input, textarea {
+    background: transparent;
+    border: 1px solid white;
+    color: white;
+    padding: 10px;
+    flex: 1;
+    border-radius: 3px;
+    outline: none;
+    resize: none;
+}
+
+textarea {
+    margin-top: 15px;
+    height: 100px;
+    width: 100%;
+}
+
+
+.botones {
+    margin-top: 15px;
+    display: flex;
+    gap: 10px;
+}
+
+.btn-enviar, .btn-reset {
+    padding: 10px 15px;
+    border: 1px solid white;
+    background: white;
+    color: black;
+    font-weight: bold;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.btn-reset {
+    background: transparent;
+    color: white;
+}
+
+.btn-enviar:hover {
+    background: #ddd;
+}
+
+.btn-reset:hover {
+    background: white;
+    color: black;
+}
+
+/* iconos de redes*/
+.sociales {
+    margin-top: 25px;
+    display: flex;
+    gap: 15px;
+}
+
+.sociales a {
+    color: white;
+    font-size: 20px;
+    transition: 0.3s;
+}
+
+.sociales a:hover {
+    color: #ddd;
+}
