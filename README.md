@@ -1,7 +1,7 @@
 # Practica-Git
 # PROYECTO GRUPAL 
 # PLANTILLA WEB MULTIFUNCIONAL
-<img src="imagenes/fondo2.png" alt="Imagen vertical" width="500" height="1000">
+<img src="imagenes/fondo2.png" alt="Imagen vertical" width="1000" height="500">
 
 ## 🌟 ¿Qué es la plantilla "Dimension"?
 La plantilla "Dimension" es una plantilla web de HTML5 UP, diseñada con un estilo moderno, limpio y minimalista. Se trata de una página de una sola sección (one-page), lo que la convierte en una opción ideal para proyectos que buscan destacar un mensaje claro y directo. Su estructura visual permite una gran flexibilidad, permitiendo que el contenido se vea atractivo y fluido en dispositivos móviles y escritorios.
