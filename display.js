@@ -38,6 +38,7 @@ Array.from(closeElements).forEach((closeBtn) => {
     about.classList.remove("display");
     intro.classList.remove("display");
     work.classList.remove("display");
+    contact.classList.remove("display");
     container.classList.remove("z-index");
     portada.classList.remove("hide");
   });
