@@ -46,7 +46,7 @@ Con un diseño centrado en la imagen de fondo y la tipografía estilizada, "Dime
 
 
 * **Página de productos o servicios técnicos** esta plantilla puede presentar tus servicios con claridad, mostrando:
-<img src="imagenes/repa.png" alt="Imagen vertical" width="500" height="500">
+<img src="imagenes/repa.png" alt="Imagen vertical" width="1000" height="500">
 
 
 🔹Reparación de computadoras y celulares
