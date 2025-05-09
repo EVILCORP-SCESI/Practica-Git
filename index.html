@@ -10,12 +10,32 @@
 </head>
 
 <body>
-    <header>
-        <div id="btn1">about</div>
-        <div id="btn2">intro</div>
-        <div id="btn3">work</div>
+    <header id="header">
+        <div class="logo">
+            <span class="icon">❖</span>
+        </div>
+        <div class="content" id="portada">
+            <div class="inner">
+                <h1>DIMENSION</h1>
+                <p>
+                    A fully responsive site template designed by
+                    <a href="">HTML5 UP</a> and released<br />
+                    for free under the
+                    <a href="">Creative Commons</a>
+                    license.
+                </p>
+            </div>
+        </div>
+        <nav>
+            <ul>
+                <li id="btn1"><a href="#intro">Intro</a></li>
+                <li id="btn2"><a href="#work">Work</a></li>
+                <li id="btn3"><a href="#about">About</a></li>
+                <li id="btn4"><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
     </header>
-    <main>
+    <main id="container">
         <!-- Sección 1: SOBRE -->
         <article id="about">
             <div class="cerrar"><i class="fa-solid fa-x"></i></div>
@@ -79,6 +99,7 @@
     </main>
 
     <script src="display.js"></script>
+
 
 </body>
 
