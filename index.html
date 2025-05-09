@@ -1,41 +1,106 @@
 <!DOCTYPE html>
-<html lang="en">
-  <head>
+<html lang="es">
+
+<head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Dimension</title>
+    <title>Dimensión</title>
     <link rel="stylesheet" href="style.css" />
-  </head>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" />
+</head>
 
-  <body>
-    <div>
-      <header id="header">
+<body>
+    <header id="header">
         <div class="logo">
-          <span class="icon">❖</span>
+            <span class="icon">❖</span>
         </div>
-        <div class="content">
-          <div class="inner">
-            <h1>Dimension</h1>
-            <p>
-              A fully responsive site template designed by
-              <a href="">HTML5 UP</a> and released<br />
-              for free under the
-              <a href="">Creative Commons</a>
-              license.
-            </p>
-          </div>
+        <div class="content" id="portada">
+            <div class="inner">
+                <h1>DIMENSION</h1>
+                <p>
+                    A fully responsive site template designed by
+                    <a href="">HTML5 UP</a> and released<br />
+                    for free under the
+                    <a href="">Creative Commons</a>
+                    license.
+                </p>
+            </div>
         </div>
         <nav>
-          <ul>
-            <li><a href="#intro">Intro</a></li>
-            <li><a href="#work">Work</a></li>
-            <li><a href="#about">About</a></li>
-            <li><a href="#contact">Contact</a></li>
-          </ul>
+            <ul>
+                <li id="btn1"><a href="#intro">Intro</a></li>
+                <li id="btn2"><a href="#work">Work</a></li>
+                <li id="btn3"><a href="#about">About</a></li>
+                <li id="btn4"><a href="#contact">Contact</a></li>
+            </ul>
         </nav>
-      </header>
-      <main></main>
-      <footer></footer>
-    </div>
-  </body>
+    </header>
+    <main id="container">
+        <!-- Sección 1: SOBRE -->
+        <article id="about">
+            <div class="cerrar"><i class="fa-solid fa-x"></i></div>
+            <h2>A B O U T</h2>
+            <img src="https://html5up.net/uploads/demos/dimension/images/pic03.jpg" alt="Imagen sobre" />
+            <p>
+                Lorem ipsum dolor sit amet, consectetur y adipiscing elit. Praesent eleifend dignissim arcu, a eleifend
+                sapien imperdiet ac. Aliquam erat volutpat. Praesent urna nisi, fringilla lorem y vehicula lacinia quam.
+                Integer sollicitudin mauris nec lorem luctus ultrices. Aliquam libero y malesuada fames ac ante ipsum
+                primis
+                en faucibus. Cras viverra ligula sit amet ex mollis mattis lorem ipsum dolor sit amet.
+            </p>
+        </article>
+
+        <!-- Sección 2: INTRO -->
+        <article id="intro">
+            <div class="cerrar"><i class="fa-solid fa-x"></i></div>
+            <h2>I N T R O</h2>
+            <img src="https://html5up.net/uploads/demos/dimension/images/pic01.jpg" alt="Imagen intro" />
+            <p>
+                Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin aliquam facilisis ante interdum congue.
+                Integer mollis, nisl amet convallis, porttitor magna ullamcorper, amet egestas mauris. Ut magna finibus
+                nisi
+                nec lacinia. Nam maximus erat id euismod egestas. By the way, check out my awesome work.
+                <br><br>
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent
+                taciti
+                sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh
+                porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies
+                condimentum.
+                Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla
+                in
+                aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada
+                fames ac
+                turpis egestas. In non lorem sit amet elit placerat maximus. Pellentesque aliquam maximus risus, vel sed
+                vehicula.
+            </p>
+        </article>
+        <!-- Sección 3: WORK -->
+        <article id="work">
+            <div class="cerrar"><i class="fa-solid fa-x"></i></div>
+            <h2>W O R K</h2>
+            <img src="https://html5up.net/uploads/demos/dimension/images/pic02.jpg" alt="Imagen work" />
+            <p>
+                Adipiscing magna sed dolor elit. Praesent eleifend dignissim arcu, at eleifend sapien imperdiet ac.
+                Aliquam erat
+                volutpat. Praesent urna nisi, fringila lorem et vehicula lacinia quam. Integer sollicitudin mauris nec
+                lorem luctus
+                ultrices.
+                <br><br>
+                Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed
+                nunc rhoncus
+                pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel
+                lacinia
+                pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero.
+                Mauris
+                aliquet magna magna sed nunc rhoncus amet feugiat tempus.
+            </p>
+        </article>
+
+    </main>
+
+    <script src="display.js"></script>
+
+
+</body>
+
 </html>
