@@ -6,6 +6,7 @@ const intro = document.getElementById("intro");
 const work = document.getElementById("work");
 const closeElements = document.getElementsByClassName("cerrar");
 const container = document.getElementById("container");
+const contact = document.getElementById("contact");
 const portada = document.getElementById("portada");
 
 btn3.addEventListener("click", function () {
@@ -23,6 +24,12 @@ btn1.addEventListener("click", function () {
 btn2.addEventListener("click", function () {
   portada.classList.add("hide");
   work.classList.add("display");
+  container.classList.add("z-index");
+});
+
+btn4.addEventListener("click", function () {
+  portada.classList.add("hide");
+  contact.classList.add("display");
   container.classList.add("z-index");
 });
 
