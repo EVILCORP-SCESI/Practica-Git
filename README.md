@@ -3,8 +3,8 @@
 # PLANTILLA WEB MULTIFUNCIONAL
 <img src="imagenes/fondo2.png" alt="Imagen vertical" width="1000" height="500">
 
-## 🌟 ¿Qué es la plantilla "Dimension"?
-La plantilla "Dimension" es una plantilla web de HTML5 UP, diseñada con un estilo moderno, limpio y minimalista. Se trata de una página de una sola sección (one-page), lo que la convierte en una opción ideal para proyectos que buscan destacar un mensaje claro y directo. Su estructura visual permite una gran flexibilidad, permitiendo que el contenido se vea atractivo y fluido en dispositivos móviles y escritorios.
+## 🌟 ¿Qué es "Dimension"?
+"Dimension" es una plantilla web de HTML5 UP, diseñada con un estilo moderno, limpio y minimalista. Se trata de una página de una sola sección (one-page), lo que la convierte en una opción ideal para proyectos que buscan destacar un mensaje claro y directo. Su estructura visual permite una gran flexibilidad, permitiendo que el contenido se vea atractivo y fluido en dispositivos móviles y escritorios.
 
 Con un diseño centrado en la imagen de fondo y la tipografía estilizada, "Dimension" es perfecta para destacar proyectos personales, productos o servicios con un enfoque minimalista, pero impactante.
 
