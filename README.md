@@ -10,6 +10,8 @@ Con un diseño centrado en la imagen de fondo y la tipografía estilizada, "Dime
 
 ## EJEMPLOS DE USO PARA LA PLANTILLA
 * **Portafolio personal de un profesional**, Ideal para mostrar tus habilidades y trabajos previos, tales como:
+<img src="imagenes/porta.png" alt="Imagen vertical" width="500" height="500">
+
 
 🔹Diseño gráfico
 
@@ -21,6 +23,8 @@ Con un diseño centrado en la imagen de fondo y la tipografía estilizada, "Dime
 
 
 * **Landing page para productos o servicios**, Si estás lanzando un producto o servicio, esta plantilla es perfecta para crear una página simple y atractiva con:
+<img src="imagenes/landi.png" alt="Imagen vertical" width="500" height="500">
+
 
 🔹Descripción breve
 
@@ -29,6 +33,8 @@ Con un diseño centrado en la imagen de fondo y la tipografía estilizada, "Dime
 🔹Llamados a la acción (comprar, suscribirse, obtener más información)
 
 * **Presentación de una app o software**, Perfecta para una página de aterrizaje de una nueva aplicación o software, destacando:
+<img src="imagenes/app.png" alt="Imagen vertical" width="500" height="500">
+
 
 🔹Características principales
 
@@ -40,6 +46,8 @@ Con un diseño centrado en la imagen de fondo y la tipografía estilizada, "Dime
 
 
 * **Página de productos o servicios técnicos** esta plantilla puede presentar tus servicios con claridad, mostrando:
+<img src="imagenes/repa.png" alt="Imagen vertical" width="500" height="500">
+
 
 🔹Reparación de computadoras y celulares
 
