@@ -1,5 +1,19 @@
-# Practica-Git
-# PROYECTO GRUPAL 
+# PRACTICA GRUPAL
+## 📝 Datos del equipo
+
+**Nombre del equipo:** EVILCORP
+
+**Integrantes:**
+
+- Sidney Angelly Sahonero Garrado
+- Andy Vallejos Bascope
+- Jose Fernando Garcia Melchor
+- Keyla Alejandra Limachi Barrionuevo
+- 
+**Flujo de trabajo utilizado**
+
+GitHub flow
+
 # PLANTILLA WEB MULTIFUNCIONAL
 <img src="assets/images/fondo2.png" alt="Imagen vertical" width="1000" height="500">
 
