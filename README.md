@@ -9,7 +9,7 @@
 - Andy Vallejos Bascope
 - Jose Fernando Garcia Melchor
 - Keyla Alejandra Limachi Barrionuevo
-- 
+  
 **Flujo de trabajo utilizado**
 
 GitHub flow
